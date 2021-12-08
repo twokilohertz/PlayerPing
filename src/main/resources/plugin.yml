@@ -1,0 +1,6 @@
+name: PlayerPing
+version: '${project.version}'
+main: com.twokilohertz.playerping.PlayerPing
+api-version: 1.18
+authors: [ twokilohertz ]
+description: Shows player's ping times to the server on the player list

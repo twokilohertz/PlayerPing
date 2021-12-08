@@ -1,0 +1,2 @@
+# update-interval, time between ping refreshes on the scoreboard in seconds
+update-interval: 30
